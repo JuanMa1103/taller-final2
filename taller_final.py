@@ -199,4 +199,3 @@ while jugador.vida>0:
             elif enemigo.vida<=0:
                 print("mataste al mago oscuro  vengando a tu padre")
                 print("Ganaste el juego")
-                
